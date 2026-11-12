@@ -1,0 +1,8 @@
+app/node_modules/
+app/logs/
+compose/.env
+k8s/*secret*.yaml
+*.pem
+*.key
+*.kubeconfig
+.DS_Store
